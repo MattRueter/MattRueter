@@ -5,7 +5,7 @@ My name is Matt. I'm a self taught full-stack developer based in Chicago. I like
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Chingu Dashboard & Idiom 
+- 🔭 I’m currently working on Team Forward & Idiom.
 - 🌱 I’m currently learning TypeScript best practices.
 - 💬 Ask me about [The Odin Project](https://www.theodinproject.com/) or [Chingu](https://www.chingu.io/) if you are new to web development and want some encouragement.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robert-matthew-rueter/)
