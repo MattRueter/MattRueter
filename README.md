@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/57eb506e-4a72-4df4-8284-e10cd994a00d" alt="git background" style="width: 100%; height:auto;" />
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/57eb506e-4a72-4df4-8284-e10cd994a00d" alt="git background" style="width:50%; height:auto; " />
+</p>
 
 ### Hi there 👋
 My name is Matt. I'm a software developer based in Chicago. I like learning, tinkering, breaking/fixing things, and problem solving in Javascript (and a little bit in Python as well).
