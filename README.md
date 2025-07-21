@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 👋
-My name is Matt. I'm a software developer based in Chicago. I like learning, tinkering, breaking/fixing things, and problem solving in Javascript (and a little bit in Python as well).
+My name is Matt. I'm a software developer based in Madrid. I like learning, tinkering, breaking/fixing things, and problem solving in Javascript (and a little bit in Python as well).
 <!--
 **MattRueter/MattRueter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
