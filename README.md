@@ -3,14 +3,14 @@
 </p>
 
 ### Hi there 👋
-My name is Matt. I'm a software developer based in Madrid. I like learning, tinkering, breaking/fixing things, and problem solving in Javascript (and a little bit in Python as well).
+My name is Matt. I'm a software developer based in Madrid. I like learning, tinkering, breaking/fixing things, and problem solving in Javascript and Python.
 <!--
 **MattRueter/MattRueter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 - ⚡ At the moment I'm working on [Idiom](https://blog.parlanchin.com/blog/introducing-idiom/) and [Zest](https://zest.parlanchin.com/)
-- ⚡ I’m currently studying System Design with Educative.io and DesignGurus.io.
+- ⚡ I’m currently studying System Design with Educative.io and DesignGurus.io as well as learning the basics of Go.
 - ⚡ Ask me about [The Odin Project](https://www.theodinproject.com/) or [Chingu](https://www.chingu.io/) if you are new to web development and want some encouragement.
 - ⚡ How to reach me: [Linkedin](https://www.linkedin.com/in/robert-matthew-rueter/)
 - ⚡ I blog at [Parlanchín](https://blog.parlanchin.com/blog-home/)
