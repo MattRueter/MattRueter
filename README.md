@@ -9,12 +9,15 @@ My name is Matt. I'm a software developer based in Madrid. I like learning, tink
 
 Here are some ideas to get you started:
 -->
+
+
 - ⚡ At the moment I'm working on [Idiom](https://idiomlanguages.com/)
 - ⚡ I’m currently studying System Design with Educative.io and DesignGurus.io.
 - ⚡ Ask me about [The Odin Project](https://www.theodinproject.com/) or [Chingu](https://www.chingu.io/) if you are new to web development and want some encouragement.
 - ⚡ How to reach me: [Linkedin](https://www.linkedin.com/in/robert-matthew-rueter/)
-- ⚡ I blog at [Parlanchín](https://blog.parlanchin.com/blog-home/)
 - ⚡ Fun fact: Though there are plenty of good resources on the internet I still like sitting with a book sometimes. A couple I recommend are...
   * Learning Javascript Design Patterns by Addy Osmani [also free online](https://www.patterns.dev/)
   * Good Code, Bad Code by Tom Long from [Manning Publications](https://www.manning.com/books/good-code-bad-code)
   * Think Like a Programmer by V. Anton Spraul from [no startch press](https://nostarch.com/thinklikeaprogrammer)
+  
+Note: Most of my recent, production work lives in private repos under Parlanchín. These are live, user-facing products. I'm glad to walk through architecture decisions or share code samples on request. Or take a look at some of my work on these projects [here](https://matt.parlanchin.com/)
